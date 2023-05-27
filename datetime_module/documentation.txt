@@ -1,1 +1,5 @@
+# Module:
+the datetime module is a module for getting, creating and modifying dates and times
+
+# Documentation:
 https://docs.python.org/3/library/datetime.html

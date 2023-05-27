@@ -1,0 +1,5 @@
+# Module:
+os module is used for communication between python and system
+
+# Documentation:
+https://docs.python.org/3/library/os.html
