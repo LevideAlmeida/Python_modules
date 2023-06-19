@@ -1,0 +1,5 @@
+# Module:
+json module is used to manage json files
+
+# Documentation:
+https://docs.python.org/3/library/json.html
